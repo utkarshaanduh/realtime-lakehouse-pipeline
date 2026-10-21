@@ -1,0 +1,12 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+.terraform/
+*.tfstate
+*.tfstate.backup
+.DS_Store
+dbt_project/target/
+dbt_project/logs/
+dbt_project/dbt_packages/
